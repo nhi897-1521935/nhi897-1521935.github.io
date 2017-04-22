@@ -1,0 +1,53 @@
+body{
+    background-image: url('ep_naturalwhite.png');
+    
+}
+
+p{
+        
+}
+
+h2{
+    text-align: center;
+    font-family: fantasy;
+    font-size: 50px;
+    border: solid black;
+    
+}
+
+h3{
+    font-size: 15px;
+}
+
+h4{
+    font-size: 15px;
+}
+
+h5{
+    font-size: 15px;
+}
+
+h6{
+    font-size: 15px;
+}
+
+
+li{
+
+}
+
+#Header{
+    
+}
+
+#Header h1{
+
+}
+
+#Content{
+
+}
+
+#Footer{
+
+}
